@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+Meu nome é Lucas. Moro numa pequena cidade do sul de Minas Gerais, chamada Piranguçu. Atualmente, estudo na Tybe e faço curso de Web Full-Stack.
+</br>Gosto de trabalhar no back-end!
+
+### Stacks aprendidas:
+- javaScript
+- typeScript
+- MYSQL
+- Mongo
+- Sequelize
+- POO
+- CSS
+- HTML
+- Node.js
+- React
 <!--
 **lucas852757/lucas852757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
