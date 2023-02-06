@@ -39,4 +39,10 @@ Here are some ideas to get you started:
     <img align="center" heigth="30" width="40" alt="lucas-html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
     <img align="center" heigth="30" width="40" alt="lucas-css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
     <img align="center" heigth="30" width="40" alt="lucas-docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+  <img align="center" heigth="30" width="40" alt="lucas-typeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" heigth="30" width="40" alt="lucas-mysql"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" heigth="30" width="40" alt="lucas-mongo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+ <img align="center" heigth="30" width="40" alt="lucas-sequelize" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+<img align="center" heigth="30" width="40" alt="lucas-node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="center" heigth="30" width="40" alt="lucas-react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />     
 </div>
